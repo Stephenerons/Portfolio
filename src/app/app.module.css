@@ -1,0 +1,39 @@
+.btn{
+    width: 3rem;
+    height: 3rem;
+    box-shadow: -2px 2px 16px rgba(255, 255, 255, 20%), 4px -4px 18px rgba(0, 0, 0, 20%) ;
+    border-radius: 100%;
+    background-color: #2E2727;
+    color: white;
+    cursor: pointer;
+}
+
+.blue{
+    width: 3rem;
+    height: 3rem;
+    box-shadow: -2px 2px 16px rgba(255, 255, 255, 20%), 4px -4px 18px rgba(0, 0, 0, 20%) ;
+    border-radius: 100%;
+    background-color: #2E2727;
+    color: #5F8F99; 
+    cursor: pointer;
+}
+
+.red{
+    width: 3rem;
+    height: 3rem;
+    box-shadow: -2px 2px 16px rgba(255, 255, 255, 20%), 4px -4px 18px rgba(0, 0, 0, 20%) ;
+    border-radius: 100%;
+    background-color: #2E2727;
+    color: #D94242; 
+    cursor: pointer;
+}
+
+.green{
+    width: 3rem;
+    height: 3rem;
+    box-shadow: -2px 2px 16px rgba(255, 255, 255, 20%), 4px -4px 18px rgba(0, 0, 0, 20%) ;
+    border-radius: 100%;
+    background-color: #2E2727;
+    color: #38DF0E;
+    cursor: pointer;
+}

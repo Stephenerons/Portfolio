@@ -1,3 +1,4 @@
+import Sidebar from './component/Sidebar'
 import './globals.css'
 import { Inter } from 'next/font/google'
 
@@ -11,7 +12,8 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={` bg-gradient-to-r from-[#70888D] to-[#3B9FB5]  ${inter.className}`}> {children}</body>
     </html>
   )
 }
+
