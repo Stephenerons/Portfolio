@@ -113,11 +113,11 @@ const oneThird = () => {
             {/* container div starts */}
 
 
-<section className='w-full flex justify-center items-center my-4'>
+<section className='md:w-full w-full h-screen md:flex flex justify-center items-center md:justify-center md:items-center md:my-4'>
 
     <div >
  {/* most outer container starts  */}
-    <div className='w-[21rem] h-[33.25rem] bg-[#2E2727] rounded-lg  shadow-outerInner flex items-center justify-center'>
+    <div className='md:w-[21rem] md:h-[33.25rem] md:bg-[#2E2727] md:rounded-lg  md:shadow-outerInner md:flex md:items-center md:justify-center'>
 
         {/* screen container starts */}
         <div className='w-[19rem] h-[31.25rem]'>
